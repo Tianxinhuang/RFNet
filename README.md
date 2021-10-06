@@ -16,6 +16,7 @@ The dataset can be found in [PCN](https://github.com/wentaoyuan/pcn)
 
 1. Compile
 
-```cd ./tf_ops
+```
+cd ./tf_ops
 bash compile.sh
 ```
