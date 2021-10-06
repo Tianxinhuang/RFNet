@@ -14,5 +14,5 @@ The dataset can be found in [PCN](https://github.com/wentaoyuan/pcn)
 
 ## Usage
 
-1.Compile
-'cd tf_ops'
+1. Compile
+`cd tf_ops`
