@@ -10,7 +10,7 @@ The codes for RFNet: Recurrent Forward Network for Dense Point Cloud Completion
 * numpy 1.14.5
 
 ## Dataset
-The dataset can be found in [PCN](https://github.com/wentaoyuan/pcn)
+The dataset can be found in [PCN](https://github.com/wentaoyuan/pcn).
 
 ## Usage
 
