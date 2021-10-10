@@ -36,5 +36,13 @@ Python3 recon_test.py
 The paths of test data(`data_dir`) and lists(`list_path`) should be edited before testing.
 
 ## Citation
-
-
+If you find our work useful for your research, please cite:
+```
+@inproceedings{huang2021rfnet,
+  title={RFNet: Recurrent Forward Network for Dense Point Cloud Completion},
+  author={Huang, Tianxin and Zou, Hao and Cui, Jinhao and Yang, Xuemeng and Wang, Mengmeng and Zhao, Xiangrui and Zhang, Jiangning and Yuan, Yi and Xu, Yifan and Liu, Yong},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12508--12517},
+  year={2021}
+}
+```
