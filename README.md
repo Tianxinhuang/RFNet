@@ -10,7 +10,7 @@ The codes for RFNet: Recurrent Forward Network for Dense Point Cloud Completion
 * numpy 1.14.5
 
 ## Dataset
-The dataset can be found in [PCN](https://github.com/wentaoyuan/pcn).
+The adopted dataset can be found in [PCN](https://github.com/wentaoyuan/pcn).
 
 ## Usage
 
@@ -34,6 +34,8 @@ Note that the paths of training data(`trainpath`) and validation data(`valpath`)
 Python3 recon_test.py
 ```
 The paths of test data(`data_dir`) and lists(`list_path`) should be edited before testing.
+The qualitative results should be 
+
 
 ## Citation
 If you find our work useful for your research, please cite:
