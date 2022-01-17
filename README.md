@@ -35,9 +35,9 @@ Python3 recon_test.py
 ```
 The paths of test data(`data_dir`) and lists(`list_path`) should be edited before testing.
 The qualitative results should be 
-[image](https://github.com/Tianxinhuang/RFNet/blob/master/quali.png)
+![image](https://github.com/Tianxinhuang/RFNet/blob/master/quali.png)
 The quantitative results on the Known categories of ShapeNet in PCN would be
-[image](https://github.com/Tianxinhuang/RFNet/blob/master/quan.png)
+![image](https://github.com/Tianxinhuang/RFNet/blob/master/quan.png)
 
 ## Citation
 If you find our work useful for your research, please cite:
